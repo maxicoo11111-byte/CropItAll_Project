@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- ===== Основная палитра CropItAll ===== -->
+    <color name="cropitall_primary">#0F9D8E</color>
+    <color name="cropitall_primary_dark">#0A7A6E</color>
+    <color name="cropitall_on_primary">#FFFFFF</color>
+
+    <color name="cropitall_accent">#FF9F43</color>
+    <color name="cropitall_on_accent">#FFFFFF</color>
+
+    <!-- ===== Светлая тема ===== -->
+    <color name="bg_light">#F5F7FA</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="text_primary_light">#1A1A1A</color>
+    <color name="text_secondary_light">#666666</color>
+
+    <!-- ===== Тёмная тема ===== -->
+    <color name="bg_dark">#121212</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="text_primary_dark">#E0E0E0</color>
+    <color name="text_secondary_dark">#AAAAAA</color>
+</resources>

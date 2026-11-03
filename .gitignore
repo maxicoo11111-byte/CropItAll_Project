@@ -1,0 +1,23 @@
+# --- Общие ---
+.DS_Store
+Thumbs.db
+
+# --- Android (CropItAll) ---
+.idea/
+.gradle/
+build/
+local.properties
+*.apk
+*.aab
+captures/
+.externalNativeBuild/
+.cxx/
+
+# --- Windows (CropItAll_PC) ---
+__pycache__/
+*.pyc
+build/
+dist/
+*.spec
+settings.json
+cia.ico

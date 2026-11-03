@@ -1,0 +1,23 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Базовая тема приложения (светлая) -->
+    <style name="Base.Theme.CropItAll" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:forceDarkAllowed">false</item>
+
+        <!-- Основные цвета -->
+        <item name="colorPrimary">@color/cropitall_primary</item>
+        <item name="colorOnPrimary">@color/cropitall_on_primary</item>
+        <item name="colorSecondary">@color/cropitall_accent</item>
+        <item name="colorOnSecondary">@color/cropitall_on_accent</item>
+
+        <!-- Фон и поверхность -->
+        <item name="android:colorBackground">@color/bg_light</item>
+        <item name="colorSurface">@color/surface_light</item>
+        <item name="colorOnSurface">@color/text_primary_light</item>
+
+        <!-- Подсказки (hint в EditText) -->
+        <item name="android:textColorHint">@color/text_secondary_light</item>
+    </style>
+
+    <style name="Theme.CropItAll" parent="Base.Theme.CropItAll" />
+</resources>

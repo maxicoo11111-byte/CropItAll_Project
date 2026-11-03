@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "mcpandroidbuild": {
+      "command": "C:\\Users\\Anna\\AppData\\Local\\Programs\\Python\\Python315\\python.exe",
+      "args": ["-m", "mcpandroidbuild"],
+      "disabled": false,
+      "autoApprove": ["build"]
+    }
+  }
+}
